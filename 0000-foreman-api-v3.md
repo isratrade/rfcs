@@ -11,7 +11,10 @@ Plugin for Foreman API v3, which is based on v2 controllers but uses format acco
 # Motivation
 [motivation]: #motivation
 
-API that is **Flexible, Consisent, Fast**
+To develop an API that is **Flexible, Consisent, Fast**
+
+JSON API is a great solution to not waste hours on reinventing the wheel in terms of your API responses design. It is a great, extensible response standard which can save your time - both on the backend side and the client side. Your clients can leverage you’re using an established standard to implement an integration with your API in a cleaner and faster way. [[Source: blog.arkency.com](http://blog.arkency.com/2016/02/how-and-why-should-you-use-json-api-in-your-rails-api/)]
+
 
 # Detailed design
 [design]: #detailed-design
